@@ -2,6 +2,7 @@
 
 > **I design learning around what people need to do—not simply around what information needs to be delivered.**
 
+![From Work to Learning to Application](../images/work-learning-application.png)
 ---
 
 ## Start With the Work
