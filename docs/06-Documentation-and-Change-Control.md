@@ -223,6 +223,7 @@ It is **accurate, connected to the work, maintained over time, and owned by some
 
 
 ---
-➡️ Continue
 
-Next: Measuring Learning and Training Operations
+### ➡️ Continue
+
+**[Next: Measurement and Continuous Improvement →](07-Measurement-and-Continuous-Improvement.md)**
