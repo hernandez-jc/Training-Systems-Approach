@@ -280,9 +280,11 @@ I try to keep the approach simple:
 
 That is how I approach training as a system rather than as a collection of courses.
 
-➡️ Continue
+---
 
-Next: Portfolio Evidence
+### ➡️ Continue
+
+**[Next: Portfolio Evidence →](09-Portfolio-Evidence.md)**
 
 
 
