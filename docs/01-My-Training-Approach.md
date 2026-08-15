@@ -2,6 +2,9 @@
 
 > **I don't treat training as a collection of courses. I look at how people, processes, information, technology, and learning interact—and use that understanding to design training that works in the real world.**
 
+
+![Training Systems Approach overview](../images/training-systems-approach-overview.png)
+
 ---
 
 ## 🎯 Where I Start
