@@ -185,6 +185,9 @@ That turns support from a purely reactive activity into a source of continuous i
 
 That is the connection I make between learner support, training operations, and continuous improvement.
 
-➡️ Continue
 
-Next: Training Operations and Quality
+---
+
+### ➡️ Continue
+
+**[Next: Documentation and Change Control →](06-Documentation-and-Change-Control.md)**
