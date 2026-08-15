@@ -378,6 +378,9 @@ But it is most useful when it is connected to the work around it.
 
 That is how I connect instructional design with systems thinking.
 
-➡️ Continue
 
-Next: Training, Technology, and Digital Learning
+---
+
+### ➡️ Continue
+
+**[Next: From Support to Improvement →](05-From-Support-to-Improvement.md)**
