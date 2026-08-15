@@ -374,6 +374,7 @@ People, processes, information, technology, and learning influence one another.
 
 
 ---
-➡️ Continue
 
-Next: Mapping the Training System
+### ➡️ Continue
+
+**[Next: Mapping the Training System →](03-Mapping-the-Training-System.md)**
