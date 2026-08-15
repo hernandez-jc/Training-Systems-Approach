@@ -261,7 +261,7 @@ One reason I use system maps is to make dependencies easier to see.
 
 For example:
 
-```
+```text
 Accurate Information
         │
         ▼
@@ -276,6 +276,7 @@ Successful Application
         ▼
 Useful Performance Evidence
 ```
+
 
 If the information at the beginning is wrong or outdated, the problem can travel through the entire system.
 
@@ -391,26 +392,27 @@ I use the map to help answer questions such as:
 
 My goal is not to create a perfect diagram of an organization.
 
-My goal is to develop a useful picture of how the learning system works.
+My goal is to develop a **useful picture of how the learning system works.**
 
 That picture helps me move from:
 
 
-
 ```text
-**Training request**
+Training request
   │
   ▼
-**Understanding**
+Understanding
   │
   ▼
-**Better intervention**
+Better intervention
   │
   ▼
-**Evidence**
+Evidence
   │
   ▼
-  └──────────────► **Improvement**
+  └──────────────► Improvement
+```
+
 
 The map is therefore not the final product.
 
