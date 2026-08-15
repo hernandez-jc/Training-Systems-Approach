@@ -10,28 +10,18 @@ A training activity rarely begins when a learner opens a course.
 
 There is usually a sequence of events before that happens.
 
-Someone identifies a need.
-
-Information is gathered.
-
-A learning activity is planned.
-
-People are scheduled or enrolled.
-
-Materials are prepared.
-
-The learning takes place.
-
-The learner returns to the workplace.
-
-Questions or support needs may appear.
-
-Information is recorded.
-
-Evidence becomes available.
+1. Someone identifies a need.
+2. Information is gathered.
+3. A learning activity is planned.
+4. People are scheduled or enrolled.
+5. Materials are prepared.
+6. The learning takes place.
+7. The learner returns to the workplace.
+8. Questions or support needs may appear.
+9. Information is recorded.
+10. Evidence becomes available.
 
 That evidence can then inform the next improvement.
-
 I use mapping to make those connections visible.
 
 ---
