@@ -250,6 +250,9 @@ From there, I can determine whether the right response is:
 
 That is the foundation of my **Training Systems Approach.**
 
-➡️ Continue
 
-Next: Systems Thinking in Training
+---
+
+### ➡️ Continue
+
+**[Next: Systems Thinking in Training →](02-Systems-Thinking-in-Training.md)**
