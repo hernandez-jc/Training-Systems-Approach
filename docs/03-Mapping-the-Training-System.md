@@ -152,16 +152,12 @@ I ask:
 
 >Can the learner use what was learned in the situation where it is needed?
 
-This is where gaps can become visible.
+**This is where gaps can become visible.**
 
-The learner may understand the concept but struggle with the actual workflow.
-
-The learner may know the process but have difficulty using the technology.
-
-The learner may remember the training but need a reference resource at the point of work.
-
-These observations are valuable because they connect learning with performance.
-
+- The learner may understand the concept but struggle with the actual workflow.
+- The learner may know the process but have difficulty using the technology.
+- The learner may remember the training but need a reference resource at the point of work.
+- These observations are valuable because they connect learning with performance.
 
 ---
 **6. Support**
