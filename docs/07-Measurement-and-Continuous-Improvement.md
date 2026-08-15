@@ -153,6 +153,6 @@ For me, that is the practical role of learning analytics and measurement within 
 
 
 ---
-➡️ Continue
+### ➡️ Continue
 
-Next: Putting the Training Systems Approach Into Practice
+**[Next: How I Apply the Approach →](08-How-I-Apply-the-Approach.md)**
