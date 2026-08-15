@@ -418,6 +418,8 @@ The map is therefore not the final product.
 
 It is a tool for making better training decisions.
 
-➡️ Continue
+---
 
-Next: Designing Learning Around Work
+### ➡️ Continue
+
+**[Next: Designing Learning Around Work →](04-Designing-Learning-Around-Work.md)**
