@@ -1,6 +1,8 @@
 # 🗺️ Mapping the Training System
 
 > **Before I design or change training, I want to understand how the need moves through the system—from the initial request to learning, application, support, and improvement.**
+>
+> ![Training System Map](../images/training-system-map.png)
 
 ---
 
