@@ -97,13 +97,13 @@ Once the need is understood, the learning activity has to be organized.
 
 This may involve:
 
-identifying learners
-determining timing
-coordinating people
-identifying resources
-confirming requirements
-defining responsibilities
-planning the learning experience
+- identifying learners
+- determining timing
+- coordinating people
+- identifying resources
+- confirming requirements
+- defining responsibilities
+- planning the learning experience
 
 At this stage, I look for dependencies.
 
@@ -409,23 +409,22 @@ My goal is to develop a useful picture of how the learning system works.
 
 That picture helps me move from:
 
+
+
+```text
 **Training request**
-
-to
-
+  │
+  ▼
 **Understanding**
-
-to
-
+  │
+  ▼
 **Better intervention**
-
-to
-
+  │
+  ▼
 **Evidence**
-
-to
-
-**Improvement**
+  │
+  ▼
+  └──────────────► **Improvement**
 
 The map is therefore not the final product.
 
